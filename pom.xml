@@ -14,7 +14,7 @@
 
     <properties>
         <vertx.version>3.3.2</vertx.version>
-        <vertigo.version>1.0.0</vertigo.version>
+        <vertigo.version>1.1.0-SNAPSHOT</vertigo.version>
         <slf4j.version>1.7.10</slf4j.version>
         <log4j.version>2.4.1</log4j.version>
         <disruptor.version>3.3.2</disruptor.version>
